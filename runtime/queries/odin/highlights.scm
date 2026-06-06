@@ -147,9 +147,9 @@
   (identifier) @type
   "::")
 
-(enum_declaration
-  (identifier) @type
-  "::")
+; (enum_declaration
+;   (identifier) @type
+;   "::")
 
 (union_declaration
   (identifier) @type
